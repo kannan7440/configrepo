@@ -1,2 +1,0 @@
-baseRate=2.4
-aportRate=1.1
