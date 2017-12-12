@@ -1,0 +1,2 @@
+baseRate=3.4
+aportRate=3.1
